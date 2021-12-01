@@ -1,0 +1,17 @@
+site_name: List of Dank Items
+site_url: https://rperson1508.github.io/dd/dankitems
+# repo_url: https://github.com/randomperson1508/bot/tree/main/docs
+# edit_uri: blob/main/docs
+
+nav:
+  - Home:
+    - Home: index.md
+    
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: grey
+  logo: "https://cdn.discordapp.com/icons/708621589800943656/a_1d529ec1a78bbfa772779c689e72abd7.gif?size=1024"
+  favicon:
+    "https://cdn.discordapp.com/icons/708621589800943656/a_1d529ec1a78bbfa772779c689e72abd7.gif?size=1024"
